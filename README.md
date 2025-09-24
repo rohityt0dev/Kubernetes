@@ -12,5 +12,4 @@ Kubernetes gives you :  1.Service discovery and load balancing
                         9.IPv4/IPv6 support
                         10.Built to grow.
                         
-list all the nodes in your Kubernetes cluster.
- # kubectl get nodes
+
